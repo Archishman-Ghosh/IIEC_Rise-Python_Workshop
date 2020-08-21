@@ -1,6 +1,5 @@
 import os
 while True:
-#    print("Which application do you want to launch?")
     inp = input("Which application do you want to launch?")
     if 'launch' in inp or 'run' in inp or 'start' in inp or 'execute' in inp:
         if 'notepad' in inp or 'editor' in inp:
